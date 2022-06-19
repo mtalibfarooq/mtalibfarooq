@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Talib Farooq</h1>
-<h3 align="center">A passionate data scientist and front end developer from Karachi</h3>
+<h3 align="center">A passionate data scientist and web developer from Karachi</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtalibfarooq&label=Profile%20views&color=0e75b6&style=flat" alt="mtalibfarooq" /> </p>
@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalibfarooq&show_icons=true&locale=en&layout=compact" alt="mtalibfarooq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalibfarooq&show_icons=true&locale=en" alt="mtalibfarooq" /></p>
+
+![Snake animation](https://github.com/mtalibfarooq/mtalibfarooq/blob/output/github-contribution-grid-snake.svg)
