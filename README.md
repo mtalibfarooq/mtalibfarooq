@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mtalibfarooq@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NtNOBcE1xFJB_80e6SBjvx3Reddbrbif/view?usp=sharing](https://drive.google.com/file/d/1NtNOBcE1xFJB_80e6SBjvx3Reddbrbif/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hWqW2pSIVbyBQ2AbMfqf7AgFBi2EJ9R2/view?usp=sharing](https://drive.google.com/file/d/1hWqW2pSIVbyBQ2AbMfqf7AgFBi2EJ9R2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
