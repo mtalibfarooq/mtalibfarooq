@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtalibfarooq&label=Profile%20views&color=0e75b6&style=flat" alt="mtalibfarooq" /> </p>
 
-- 🔭 I’m currently working on **Marketplace**
+- 🔭 I’m currently working on **Multi-vendor Marketplace**
 
 - 🌱 I’m currently learning **React and Data visulation tools**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mtalibfarooq@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hWqW2pSIVbyBQ2AbMfqf7AgFBi2EJ9R2/view?usp=sharing](https://drive.google.com/file/d/1hWqW2pSIVbyBQ2AbMfqf7AgFBi2EJ9R2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hWqW2pSIVbyBQ2AbMfqf7AgFBi2EJ9R2/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
