@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtalibfarooq&label=Profile%20views&color=0e75b6&style=flat" alt="mtalibfarooq" /> </p>
 
-- 🔭 I’m currently working on [**Multi-Vendor Marketplace**](diversemv.vercel.app)
+- 🔭 I’m currently working on [**Multi-Vendor Marketplace**](https://diversemv.vercel.app)
 
 - 🌱 I’m currently learning **React and Data visulation tools**
 
