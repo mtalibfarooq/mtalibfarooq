@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mtalibfarooq@gmail.com**
 
-- 📄 Know about my experiences [**Resume CV**]([https://drive.google.com/file/d/1_4aY300sFVlYIugbGPS3-oVq8KvolVKw/view?usp=sharing](https://drive.google.com/file/d/1_4aY300sFVlYIugbGPS3-oVq8KvolVKw/view?usp=sharing))
+- 📄 Know about my experiences [**Resume CV**](https://drive.google.com/file/d/1_4aY300sFVlYIugbGPS3-oVq8KvolVKw/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +31,27 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalibfarooq&show_icons=true&locale=en&layout=compact" alt="mtalibfarooq" /></p>
+<br/>
+<hr/>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalibfarooq&show_icons=true&locale=en" alt="mtalibfarooq" /></p>
+<p align="center">
+  <a href="https://github.com/mtalibfarooq">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtalibfarooq&theme=radical&border=7F3FBF&background=0D1117" alt="M.Talib's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mtalibfarooq">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtalibfarooq&theme=radical" alt="M.Talib's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/mtalibfarooq"><img alt="mtalib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mtalibfarooq&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mtalibfarooq"><img alt="M.Talib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ![snake gif](https://github.com/mtalibfarooq/mtalibfarooq/blob/output/github-contribution-grid-snake.gif)
 
