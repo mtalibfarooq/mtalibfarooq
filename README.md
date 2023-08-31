@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mtalibfarooq@gmail.com**
 
-- 📄 Know about my experiences [Resume CV]([https://drive.google.com/file/d/1hWqW2pSIVbyBQ2AbMfqf7AgFBi2EJ9R2/view?usp=sharing](https://drive.google.com/file/d/1_4aY300sFVlYIugbGPS3-oVq8KvolVKw/view?usp=sharing)
+- 📄 Know about my experiences [**Resume CV**]([[https://drive.google.com/file/d/1hWqW2pSIVbyBQ2AbMfqf7AgFBi2EJ9R2/view?usp=sharing]([https://drive.google.com/drive/folders/1vMifjqI86uSU7tc-s3s9t7g3LsdQjZH7)](https://drive.google.com/file/d/1_4aY300sFVlYIugbGPS3-oVq8KvolVKw/view?usp=sharing](https://drive.google.com/drive/folders/1vMifjqI86uSU7tc-s3s9t7g3LsdQjZH7)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
