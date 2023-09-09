@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [**Multi-Vendor Marketplace**](https://diversemv.vercel.app)
 
-- 🌱 I’m currently learning **Next JS and Data Viz tools**
+- 🌱 I’m currently learning **Next JS and Data Viz tools PowerBI & Tableau**
 
 - 👯 I’m looking to collaborate on **projects and opensource**
 
