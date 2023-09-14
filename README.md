@@ -75,8 +75,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&animation=grow_out_in&quoteCategory=programming">
 </p>
 <hr>
-		
-![snake gif](https://github.com/mtalibfarooq/mtalibfarooq/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
